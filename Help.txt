@@ -1,0 +1,6 @@
+after downloading the project, copy all your photos to the "pic" folder
+Photos must be in jpg format
+Select all the photos with ctrl+A keys
+Then right-click on a photo and rename it to "pic"
+After doing this, all your photos should have the format "pic (1) .jpg" in order.
+Finally, open the "script-slider.js" file with the Notepad and replace the "Photos" value with the number of your photos
